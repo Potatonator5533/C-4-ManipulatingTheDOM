@@ -1,0 +1,44 @@
+.BodyBg {
+    background-color: darkgreen;
+}
+
+.loremFix {
+    color: white;
+    font-size: larger;
+}
+
+.invis {
+    visibility: hidden;
+}
+
+#change5 {
+    color: white;
+    font-size: larger;
+}
+
+.loremBg {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.adjustBtn7 {
+    line-height: 15px;
+    padding-bottom: 15px;
+}
+
+.rand0 {
+    background-color: red;
+}
+
+.rand1 {
+    background-color: blue;
+}
+
+.rand2 {
+    background-color: yellow;
+}
+
+.fillBtn {
+    height: 100%;
+}
